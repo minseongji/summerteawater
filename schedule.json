@@ -1,0 +1,41 @@
+{
+	"rsp": {
+		"stat": "ok",
+		"version": "1.0",
+		"update_interval": "21600",
+		"providers": [{
+			"provider_id": "aocvod123",
+			"channel": [{
+				"service_id": "aoc555555D",
+				"name": "test program event",
+				"content": [{
+					"id": "B120192789_621_248575",
+					"connecting_id": "",
+					"content_type": "Program",
+					"schedule_type": "demand",
+					"link_type": "",
+					"content_uri": "https://d21dxaer0ypwk1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6m2cy2rylsvo-ssai-prd/54ac8e25_eb5a_4f10_ba20_ffb254f0a16c/hls/playlist.m3u8?&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC32000261J",
+					"lang": "ko",
+					"starttime": "2019-07-12T01:04:40Z",
+					"duration": "243",
+					"title": "test program title",
+					"rating": "",
+					"ratings": "",
+					"genre": {
+						"id": "G1014",
+						"original_name": "ETC"
+					},
+					"poster": {
+						"url": "https://xxx/xxx.jpg",
+						"type": "CTI",
+						"overlay": "Y",
+						"ratio": "16_9",
+						"imagery": "",
+						"index": "16,17,19,20,25,26,38,40,42"
+					},
+					"short_desc": "short information"
+				}]
+			}]
+		}]
+	}
+}
