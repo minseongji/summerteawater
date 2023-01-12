@@ -1,1 +1,36 @@
-
+{
+  "rsp" :
+    {
+    "connected" :
+     [
+      {
+        "name" : "APP_TEST",
+        "provider_id" : "aocvod123",
+        "provider_name" : "aoc",
+        "service_id" : "aoc555555D",
+        "station_img" :
+        {
+          "index" : "10,11,12,13,14,15,21,22,23,24,35,36,39",
+          "overlay" : "Yes",
+          "type" : "form",
+          "url" : "https://xxx/xxx.png"
+        },
+        "stream_type" : "VOD",
+        "tune_info" :
+        {
+          "air" :
+          {
+            "major" : "920",
+            "minor" : ""
+          },
+          "cable" :
+          {
+            "major" : "920",
+            "minor" : ""
+          }
+        }
+      }
+    ],
+    "stat" : "ok"
+  }
+}
